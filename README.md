@@ -25,6 +25,33 @@ Cevap:
  3-> [2,3,4,5,7,9,8,15,6]
  4-> [2,3,4,5,6,9,8,15,7]
 
-
+ Binary Search Tree
+ 
+ 1. 
+ [7,5,1,8,3,6,0,9,4,2] dizisinin Binary - Search - Tree aşamalarını yazın.
+ 
+  Örnek: Root X'dir. Root'un sağında y bulunur. Solunda z bulunur vb bilgiler
+  
+                       5 => Root noktası
+                     3      7
+                    2  4 6 8 
+                   1         9
+                  0
+                  
+ - 5 ten büyük olan 7 sayısı sağ tarafa 3 sayısı ise küçük olduğundan sol tarafa yazılır.
+ - 3 noktasında ise 4 sayısı büyük olduğu için sağ 2 sayısı küçük olduğu için sol kısma yazılır.
+ - 7 noktasında ise 6 sayısı küçük olduğu için sol kısma 8 sayısı büyük olduğu için sağ kısma yazılır.
+ - Diğer sayısal veriler bu şekilde devam etmektedir.
+       
+       
+       
+       
+       
+       
+       
+      
+      
+      
+      
  
  
